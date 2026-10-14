@@ -10,5 +10,5 @@
   "loggers": ["smart_serial"],
   "quality_scale": "platinum",
   "requirements": ["smart-serial==0.3.1"],
-  "version": "0.1.1"
+  "version": "0.1.2"
 }
