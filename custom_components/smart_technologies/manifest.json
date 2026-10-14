@@ -9,6 +9,6 @@
   "iot_class": "local_polling",
   "loggers": ["smart_serial"],
   "quality_scale": "platinum",
-  "requirements": ["smart-serial==0.3.0"],
-  "version": "0.1.0"
+  "requirements": ["smart-serial==0.3.1"],
+  "version": "0.1.1"
 }
